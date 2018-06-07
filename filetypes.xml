@@ -4,6 +4,7 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="multibubble" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -5,6 +5,7 @@
       <mapping pattern="multibubble" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="version_tree" type="PLAIN_TEXT" />
+      <mapping pattern="release note" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

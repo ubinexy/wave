@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="release notes" type="PLAIN_TEXT" />
+      <mapping pattern="Release Notes" type="PLAIN_TEXT" />
       <mapping pattern="multibubble" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="version_tree" type="PLAIN_TEXT" />

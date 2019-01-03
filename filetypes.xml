@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="realease note" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="release notes" type="PLAIN_TEXT" />
       <mapping pattern="Release Notes" type="PLAIN_TEXT" />

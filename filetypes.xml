@@ -10,6 +10,7 @@
       <mapping pattern="2019-01-04 22:54:47" type="PLAIN_TEXT" />
       <mapping pattern="version_tree" type="PLAIN_TEXT" />
       <mapping pattern="release note" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="journal" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>

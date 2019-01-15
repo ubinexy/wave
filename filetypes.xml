@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="realease note" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="release notes" type="PLAIN_TEXT" />
       <mapping pattern="Release Notes" type="PLAIN_TEXT" />
       <mapping pattern="multibubble" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="2019-01-04 22:54:47" type="PLAIN_TEXT" />
       <mapping pattern="version_tree" type="PLAIN_TEXT" />
+      <mapping pattern="realease note" type="PLAIN_TEXT" />
       <mapping pattern="release note" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="journal" type="PLAIN_TEXT" />
